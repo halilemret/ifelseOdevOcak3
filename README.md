@@ -8,10 +8,3 @@ Koşullu ifadeler (if-else), programlarda koşullara bağlı olarak farklı kod 
       Ek hesaptan para çekme seçeneği sun
   DEĞİLSE
       "Yetersiz bakiye" hatası göster
--Giyim:
-  EĞER (hava yağmurlu ise)
-      Şemsiye al
-  EĞER (hava soğuk ise)
-      Kalın giyinme
-  DEĞİLSE
-      İnce giyinme
